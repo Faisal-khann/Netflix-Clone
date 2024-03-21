@@ -29,6 +29,8 @@ Popular JavaScript and CSS frameworks and libraries:
 3. FAQ Section<br>
 <img width="620" alt="Faq section" src="https://github.com/Faisal-khann/Netflix-Clone/assets/119971851/1c7cc2b8-7fdc-4031-9f0b-f49022500838"><br>
 <img width="371" alt="Faq2" src="https://github.com/Faisal-khann/Netflix-Clone/assets/119971851/809ff7dc-c46a-4972-a7b2-abcffb5b7793"><br>
+4. Footer Section<br>
+
 
 
 
