@@ -23,6 +23,7 @@ Popular JavaScript and CSS frameworks and libraries:
 <img width="935" alt="Header" src="https://github.com/Faisal-khann/Netflix-Clone/assets/119971851/f5b8d7fe-854c-48bb-8ac6-adae4893dd6a"><br>
 2. Features Section<br>
 <img width="801" alt="Features1" src="https://github.com/Faisal-khann/Netflix-Clone/assets/119971851/a2969c13-62ce-47d0-a9bc-575466960db2"><br>
+<img width="815" alt="Features2" src="https://github.com/Faisal-khann/Netflix-Clone/assets/119971851/5e6caca2-cbc4-48f7-829e-550df1783f27"><br>
 
 
 
