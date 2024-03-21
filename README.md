@@ -20,5 +20,6 @@ Popular JavaScript and CSS frameworks and libraries:
 
 ## Screenshot
 1. Header Section<br>
+<img width="935" alt="Header" src="https://github.com/Faisal-khann/Netflix-Clone/assets/119971851/f5b8d7fe-854c-48bb-8ac6-adae4893dd6a">
 
 
