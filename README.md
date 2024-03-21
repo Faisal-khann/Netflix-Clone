@@ -3,7 +3,7 @@ This is the types of clone of Netflix that is built by using HTML and vanilla CS
 Front-end web development is the process of creating a website's graphical user interface (GUI) using 
 HTML, CSS, and JavaScript. These languages allow users to interact with and view the website.
 
-<strong>Client Software (Front-End)</strong><br><br>
+<strong>Client Software (Front-End):-</strong><br>
 The basic languages of Front-End Development are:
 1. HTML<br>
 2. CSS<br>
