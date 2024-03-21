@@ -1,5 +1,5 @@
 # Netflix-Clone
-This is the types of clone of Netflix that is built by using HTML and vanilla CSS.<br>
+This is the types of clone of Netflix that is built by using HTML and vanilla CSS.<br> <br>
 Front-end web development is the process of creating a website's graphical user interface (GUI) using 
 HTML, CSS, and JavaScript. These languages allow users to interact with and view the website.
 
