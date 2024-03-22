@@ -36,7 +36,7 @@ Popular JavaScript and CSS frameworks and libraries:
 
 ## Responsive Section
 Following below are the sample of Responsive section<br>
-https://github.com/Faisal-khann/Netflix-Clone/assets/119971851/9e23aeef-b515-40bc-9c40-0f8217ef4cc3
+https://github.com/Faisal-khann/Netflix-Clone/assets/119971851/7c517b5d-cdb5-4425-a4cb-f4206469280f
 
 
 
