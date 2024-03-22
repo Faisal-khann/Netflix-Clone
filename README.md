@@ -34,6 +34,8 @@ Popular JavaScript and CSS frameworks and libraries:
 4. Footer Section<br>
 <img width="647" alt="Footer section" src="https://github.com/Faisal-khann/Netflix-Clone/assets/119971851/16ce6f57-b962-4be0-a94b-0e4efa4aff52">
 
+## Responsive Section
+
 
 
 
