@@ -279,10 +279,10 @@ input[type = "radio"]{
 label::after{
     font-size: 22px;
 }
-#emailId{
+/* #emailId{
     padding: 5px 6px;
     font-size: 10px;
-}
+} */
 .email-signup button{
     padding: 5px;
     font-size: 13px;
