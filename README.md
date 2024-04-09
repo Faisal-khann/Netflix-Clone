@@ -1,6 +1,5 @@
 # Netflix-Clone
-This is the clone of Netflix (Front-end) that is built by using the concept of HTML and Vanilla CSS.<br> 
-It is the type of proper responsive clone which is possible with the help of CSS Media Query.<br>
+This is a clone of Netflix (front-end) built using the concepts of HTML and Vanilla CSS. It is a properly responsive clone achievable with the assistance of CSS Media Queries.<br>
 Front-end web development is the process of creating a website's graphical user interface (GUI) using 
 HTML, CSS, and JavaScript. These languages allow users to interact with and view the website.
 
