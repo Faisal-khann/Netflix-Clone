@@ -30,7 +30,7 @@ https://github.com/Faisal-khann/Netflix-Clone/assets/119971851/7c517b5d-cdb5-442
 <img width="777" alt="Features4" src="https://github.com/Faisal-khann/Netflix-Clone/assets/119971851/61537d56-d6b5-4b4b-86bb-1457245648fc"><br>
 
 3. <strong>FAQ Section and Footer Section :-<br></strong>
-<img width="942" alt="FAQ" src="https://github.com/Faisal-khann/Netflix-Clone/assets/119971851/52065d4e-b790-4cc8-85a7-73002dddfe6a"><br>
+<img width="943" alt="FAQ" src="https://github.com/Faisal-khann/Netflix-Clone/assets/119971851/dbdaebf8-8ac0-4dde-badd-2d4edd4d69d4"><br>
 <img width="647" alt="Footer section" src="https://github.com/Faisal-khann/Netflix-Clone/assets/119971851/16ce6f57-b962-4be0-a94b-0e4efa4aff52">
 <!--<img width="946" alt="faqw2" src="https://github.com/Faisal-khann/Netflix-Clone/assets/119971851/d9115688-720f-472f-b4ce-72a792cb8531">
 <br>-->
