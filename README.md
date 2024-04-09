@@ -17,6 +17,8 @@ It replicates the layout and design of the Netflix website, allowing users to ex
 
 ## Responsive Section:
 Following below are the video sample of Responsive section;<br>
+
+
 https://github.com/Faisal-khann/Netflix-Clone/assets/119971851/7c517b5d-cdb5-4425-a4cb-f4206469280f
 
 ## Screenshot:
