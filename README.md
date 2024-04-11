@@ -1,27 +1,27 @@
 # Netflix-Clone
-## Project  Description:
+## Project  Description🔽
 This project is a front-end clone of Netflix, developed using HTML and Vanilla CSS.<br>
 It replicates the layout and design of the Netflix website, allowing users to explore content in a familiar interface. The clone is built with responsiveness in mind, ensuring a seamless viewing experience across various devices and screen sizes.
 
-## Key Features:
+## Key Features🔽
 1. <strong>Responsive Design:</strong> Utilizes CSS Media Queries to adapt the layout for optimal viewing on different screen.
 2. <strong>HTML Structure:</strong> Implements semantic HTML markup for better accessibility.
 3. <strong>Styling with Vanilla CSS:</strong> Demonstrates the power of CSS for styling without relying on pre-processors or frameworks.
 4. <strong>Custom Components:</strong> Includes custom-built components such as navigation bars, content sections, and footer.
 5. <strong>Cross-browser Compatibility:</strong> Ensures compatibility with major web browsers including Chrome, Firefox, Safari, and Edge.
 
-## How to Use:
+## How to Use🔽
 1. Clone the repository to your local machine.
 2. Open the index.html file in your web browser to view the Netflix clone.
 3. Explore the different sections and functionalities to experience the clone.
 
-## Responsive Section:
+## Responsive Section🔽
 Following below are the video sample of Responsive section;<br>
 
 
 https://github.com/Faisal-khann/Netflix-Clone/assets/119971851/7c517b5d-cdb5-4425-a4cb-f4206469280f
 
-## Screenshot:
+## Screenshot🔽
 1. <strong>Header Section :-</strong>
 <img width="935" alt="Header" src="https://github.com/Faisal-khann/Netflix-Clone/assets/119971851/f5b8d7fe-854c-48bb-8ac6-adae4893dd6a"><br>
 
@@ -39,11 +39,11 @@ https://github.com/Faisal-khann/Netflix-Clone/assets/119971851/7c517b5d-cdb5-442
 4. <strong>Footer Section :-</strong>
 <br><img width="934" alt="footer" src="https://github.com/Faisal-khann/Netflix-Clone/assets/119971851/555f6928-9550-4b77-b202-11652efb2333">
 
-## Contributing:
+## Contributing🔽
 Contributions and feedback are welcome!<br>
 If you'd like to contribute to the project, feel free to fork the repository and submit a pull request with your changes.
 
-## Credits:
+## Credits🔽
 . Developed by [Faisal khan] <br>
 . Inspired by the design of the Netflix website
 
