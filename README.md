@@ -1,6 +1,6 @@
 # Netflix-Clone
 ## Project  Description🔽
-This project is a front-end clone of Netflix, developed using HTML and Vanilla CSS.<br>
+This project is a front-end clone of Netflix, developed using HTML and Vanilla CSS<br>
 It replicates the layout and design of the Netflix website, allowing users to explore content in a familiar interface. The clone is built with responsiveness in mind, ensuring a seamless viewing experience across various devices and screen sizes.
 
 ## Key Features🔽
